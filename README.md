@@ -23,3 +23,7 @@ Code sample - shows how to use MdCheckbox:
 	class MyAppComponent {
 		/* ... */
 	}
+
+## Online demo
+
+Check out [this demo on Plunker](http://plnkr.co/edit/QtOsjtDvUGuTYmDTmm6f?p=preview)
